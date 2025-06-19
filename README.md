@@ -1,10 +1,13 @@
 
 <img class="animated-gif" src="https://github.com/luizronzani/luizronzani/blob/main/profile.gif">
 
-img.animated-gif{
+<style>
+  img.animated-gif{
   width: 120px;
   height: auto;
 }
+</style>
+
 <!--![](https://raw.githubusercontent.com/luizronzani/luizronzani/master/profile.gif)-->
 
 ### Languages

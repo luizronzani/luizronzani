@@ -1,4 +1,11 @@
-![](https://raw.githubusercontent.com/luizronzani/luizronzani/master/profile.gif)
+
+<img class="animated-gif" src="https://github.com/luizronzani/luizronzani/blob/main/profile.gif">
+
+img.animated-gif{
+  width: 120px;
+  height: auto;
+}
+<!--![](https://raw.githubusercontent.com/luizronzani/luizronzani/master/profile.gif)-->
 
 ### Languages
 

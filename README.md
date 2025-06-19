@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/luizronzani/luizronzani/master/profile.gif)]
+![](https://raw.githubusercontent.com/luizronzani/luizronzani/master/profile.gif)
 
 ### Languages
 
@@ -14,7 +14,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
 
-[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizronzani)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/luizronzani/luizronzani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizronzani&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

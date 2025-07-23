@@ -6,6 +6,7 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=zotero&logoColor=CC2936)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=007396)
 
 

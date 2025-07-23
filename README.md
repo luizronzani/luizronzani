@@ -6,7 +6,7 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=007396)
 
 
 ### Technologies
